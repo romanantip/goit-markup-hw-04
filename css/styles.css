@@ -436,8 +436,8 @@ footer .reviews-link:focus {
 .reviews-list footer {
   gap: 16px;
 }
-footer .reviews-item  {
-  background-color 250ms cubic-bezier(0.4, 0, 0.2, 1)
+footer .reviews-item {
+  background-color: 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
 footer .web-logo {
   display: inline-block;
