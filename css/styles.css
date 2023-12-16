@@ -454,9 +454,11 @@ footer .reviews-link:focus {
   letter-spacing: 0.02em;
   padding: 100px 0;
 }
-.all-footer {
+.footer .container {
   display: flex;
   align-items: baseline;
+}
+.all-footer {
   margin-right: 120px;
 }
 
