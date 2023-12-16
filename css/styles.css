@@ -457,10 +457,9 @@ footer .reviews-link:focus {
 .all-footer {
   display: flex;
   align-items: baseline;
-}
-.foot-cont {
   margin-right: 120px;
 }
+
 .footer .reviews-list {
   gap: 16px;
 }
