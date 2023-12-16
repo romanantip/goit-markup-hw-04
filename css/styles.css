@@ -430,10 +430,10 @@ footer .reviews-link:focus {
   display: flex;
   align-items: baseline;
 }
-.conteiner footer {
+.container footer {
   margin-right: 120px;
 }
-.reviews-list footer {
+.reviews-list .footer {
   gap: 16px;
 }
 footer .reviews-item {
