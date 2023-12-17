@@ -32,7 +32,7 @@ p {
 /* container */
 .container {
   width: 1158px;
-
+  padding: 0 15;
   margin: 0 auto;
 }
 
